@@ -27,4 +27,136 @@ python ASL.py
 
 Though the model has not performed very good because of lack of training data & has been trained for less epochs, also it doesn't perform well in case of background noise, but with significant increase in data points, and more training, could result in better performance.
 
+Identifying Gesture : a
 
+Identifying Gesture : a
+![a](./Output/a.png)
+
+Identifying Gesture : p
+![p](./Output/p.png)
+
+Identifying Gesture : y
+![y](./Output/y.png)
+
+Identifying Gesture : 5
+![5](./Output/5.png)
+
+Identifying Gesture : 2
+![2](./Output/2.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.png)
+
+Identifying Gesture : p
+![p](./Output/ImageFor%20p.png.png)
+
+Identifying Gesture : y
+![y](./Output/y.png)
+
+Identifying Gesture : 5
+![5](./Output/5.png)
+
+Identifying Gesture : 2
+![2](./Output/2.png)

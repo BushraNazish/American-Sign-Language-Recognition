@@ -385,7 +385,8 @@ while keyPressed < 0:  # any key pressed has a value >= 0
 
     # Check for user input to close program
     keyPressed = cv2.waitKey(30)  # wait 30 miliseconds in each iteration of while loop
-
+###
+###
 # Close window and camera after exiting the while loop
 cv2.destroyWindow('Camera Output')
 videoFrame.release()
